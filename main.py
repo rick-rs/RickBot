@@ -1,4 +1,3 @@
-https://RickBot.kadolthar.repl.co
 import discord
 import os
 import requests
